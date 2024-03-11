@@ -1,12 +1,10 @@
-### Hi there 👋
-JK Control
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
-</p>
+# Allen
+- 所在地：台中
+- 學歷：台灣科技大學 - 機械工程研究所 / 控制組
+---------------------------
+## JK Control 產品簡介
+- JK控制開發平台為操作簡易且開發彈性的自動化控制平台，其擁有7”/10”/15”彩色觸碰螢幕或無螢幕可供選擇。軸向運動有數位伺服EtherCAT與脈衝型伺服馬達同動控制，標配遠端網路的IO控制依需求可彈性擴充。標配JK RMCOM通訊函式庫，支援C/C#/Python/Labview等軟體。
+- 軟體內建PLC、文字檔解譯器(G/M Code)與軸向運動控制模組，並提供可自行編輯的開放式人機軟體。所有軟硬體功能皆內嵌於同一台控制器中，是您快速開發客制化機台的最佳控制器平台選擇。
 
 <!--
 **witbode/witbode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
